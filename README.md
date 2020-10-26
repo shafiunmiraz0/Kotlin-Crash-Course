@@ -7,7 +7,7 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 ### Contents
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Installing%20the%20IntelliJ-IDE%20for%20Kotlin%20Development-690e96?style=flat)]()
 
 🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
 
