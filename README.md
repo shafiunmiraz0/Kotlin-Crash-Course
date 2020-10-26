@@ -107,29 +107,29 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 🟠 [![Kotlin](https://img.shields.io/badge/Adding%20Static%20Methods-to%20Kotlin%20Enums-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Conditionals-The%20Kotlin%20when%20statement-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20when%20Statement-Exhaustive%20vs%20Non%20exhaustive-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Data%20Classes-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Data%20Classes-Parameterless%20Constructors-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Data%20Class-Component1,%20Component2,%20ComponentN-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Data%20Class%20Destructuring-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Copying-Kotlin%20Data%20Classes-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Pair%20and-Triple%20Data%20Classes-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Protected-Modifier%20for%20Variables-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Protected-Modifier%20for%20Methods-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Internal%20Modifier-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/How%20to%20Create%20an-Abstract%20Class%20in%20Kotlin-690e96?style=flat)]()
 
 🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
 
