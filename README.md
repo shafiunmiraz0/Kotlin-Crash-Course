@@ -171,41 +171,41 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-For%20Loop-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-While%20Loop-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-forEach%20Collection%20Iteration-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Combine%20List%20into%20a-Unique%20List%20with%20the%20union%20operator-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Iterating%20over%20a-List%20with%20an%20Index%20with%20forEachIndex-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Ranges-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/How%20To%20Create%20a-Map%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/How%20to%20create%20a-Mutable%20Map%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Filtering%20and-Transforming%20Maps%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20mapNotNull-Removing%20null%20items%20from%20a%20map-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Generate%20Large%20Sequences%20and-Lists%20in%20Kotlin%20with%20generateSequence-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Performance-Measuring%20performance%20with%20measureNanoTime-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Sequences-Improving%20performance%20with%20Kotlin%20Sequences-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-List%20vs.%20Set%20vs.%20Map-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/The%20Kotlin-Ternary%20Operator-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Double%20Bang%20Operator%20!!-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20requireNotNull-Forcing%20something%20that%20is%20nullable%20to%20be%20not%20null-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20checkNotNull-Checking%20that%20a%20value%20is%20not%20null-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Filter%20a%20list%20for%20Not-Null%20Values%20in%20Kotlin%20with%20filterNotNull-690e96?style=flat)]()
 
 🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
 
