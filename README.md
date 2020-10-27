@@ -207,13 +207,13 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 🟠 [![Kotlin](https://img.shields.io/badge/Filter%20a%20list%20for%20Not-Null%20Values%20in%20Kotlin%20with%20filterNotNull-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Type%20Hierarchy%20and%20Kotlin-Type%20Checking%20with%20'is'-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Casting-in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Safe%20Casting-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Understanding%20Generics%20with-Lists520and%20Maps%20in%20Kotlin-690e96?style=flat)]()
 
 🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
 
