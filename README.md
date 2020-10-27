@@ -215,25 +215,65 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 🟠 [![Kotlin](https://img.shields.io/badge/Understanding%20Generics%20with-Lists520and%20Maps%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Generic%20Class-How%20to%20Create%20a%20Generic%20Class-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Throwing%20an-Exception%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Creating%20a%20Custom%20Exception-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Try%20Catch%20Statement-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Catching%20Multiple-Exception%20Types%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Try/Catch/Finally-in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Try/Catch%20vs%20Try/Finally-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20typealias-How%20to%20create%20a%20typealias%20in%20Kotlin-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Creating-a%20Kotlin%20Extension%20Function-690e96?style=flat)]()
 
-🟠 [![Kotlin](https://img.shields.io/badge/Introduction%20of-Kotlin%20Programming%20Language-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Lazy%20Evaluation-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Lazy%20Initializer%20Block-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Packages%20and%20Imports-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Type%20Inference-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Lambdas-Understanding%20Simple%20Lambda%20Expressions-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Lambdas-Lambdas%20as%20Function%20Parameters-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Lambdas-Passing%20Values%20to%20Lambda%20Expression%20Function%20Parameters-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Lambdas-Using%20Underscores%20to%20Signify%20Unused%20Parameters-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Lambdas-The%20'it'%20parameter-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20JVM%20Interop-Calling%20Kotlin%20from%20Java-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20JVM%20Interop-Calling%20Java%20from%20Kotlin-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20JVM%20Interop-Calling%20a%20Kotlin%20Extension%20Function%20from%20Java-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20JVM%20Interop-The%20JvmName%20Annotation-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Run%20Kotlin%20Code-Anywhere%20with%20Kotlin%20Main%20Functions-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Working%20with-the%20Kotlin%20REPL-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Simple%20Calculator%20Project-Creating%20the%20Project%20and%20Main%20Function-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Simple%20Calculator%20Project-Reading%20User%20Input%20with%20readLine()-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Simple%20Calculator%20Project-Building%20the%20Calculator%20Logic-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Simple%20Calculator%20Project-Adding%20Validation%20to%20your%20Simple%20Calculator-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin%20Simple%20Calculator%20Project-Compiling%20to%20a%20JAR%20File-690e96?style=flat)]()
+
+🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Playground%20and%20Kotlin%20Koans-690e96?style=flat)]()
 
 
 ### Features of Kotlin Programming Language
