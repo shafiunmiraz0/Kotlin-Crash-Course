@@ -15,7 +15,7 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Hello%20World-690e96?style=flat)](https://github.com/shafiunmiraz0/Kotlin-Crash-Course/tree/main/Kotlin%20Hello%20World)
 
-🟠 [![Kotlin](https://img.shields.io/badge/Creating%20Variables-in%20Kotlin-690e96?style=flat)]()
+🟠 [![Kotlin](https://img.shields.io/badge/Creating%20Variables-in%20Kotlin-690e96?style=flat)](https://github.com/shafiunmiraz0/Kotlin-Crash-Course/tree/main/Creating%20Variables%20in%20Kotlin)
 
 🟠 [![Kotlin](https://img.shields.io/badge/Creating%20Read-Only%20Variables%20in%20Kotlin-690e96?style=flat)]()
 
