@@ -274,7 +274,6 @@ Kotlin is a cross-platform, statically typed, general-purpose programming langua
 
 🟠 [![Kotlin](https://img.shields.io/badge/Kotlin-Playground%20and%20Kotlin%20Koans-690e96?style=flat)]()
 
-
 ### Features of Kotlin Programming Language
 
 🟠 [![Dart](https://img.shields.io/badge/Develop-Mobile%20Applications-690e96?style=flat)]()
